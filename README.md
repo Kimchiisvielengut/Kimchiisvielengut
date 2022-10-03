@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 안녕하세요, 저는 한남 민동훈입니다. 잭스
 
 <!--
 **Kimchiisvielengut/Kimchiisvielengut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
